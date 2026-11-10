@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Aime Lihono and I'm a student at the University of Houston. Through my projects, I’ve designed backend systems that handle complex application logic, persistent data, and API-driven communication, while working with technologies such as PostgreSQL, Docker, and React. I’ve also implemented automated CI pipelines and deployed containerized applications.
 I enjoy breaking down complex problems and turning them into reliable, maintainable software, and I’m looking to continue growing as a software engineer while applying my skills to real-world systems.
-Check out my most recent project!
+Check out my most recent project over at https://yugioh-combo.vercel.app
 <img width="1876" height="922" alt="image" src="https://github.com/user-attachments/assets/7e20786b-be57-43db-b840-331e2e221853" />
 
 <!--
